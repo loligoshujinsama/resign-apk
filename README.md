@@ -5,3 +5,5 @@
 
 <p>How to use?</p>
 <p>Paste the non-RASP binary you wish to resign into the same folder as 'recompilation' and run resign.vbs</p>
+
+Note: Windows Defender might block the .bat file. Temporarily disable them please :) Work is not harmful, for convenience only.
